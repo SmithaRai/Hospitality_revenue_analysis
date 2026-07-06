@@ -20,8 +20,18 @@ decisions.
 *Weekly trend analysis for performance monitoring*
 
 ## Key Findings
-- [Add your real finding, e.g. specific property/season performance pattern]
-- [Add a second finding]
+- Elite rooms drive the highest revenue share (32%) despite having a lower ADR (₹11K) 
+  than Presidential rooms (₹23K), showing that occupancy volume outperforms premium 
+  pricing alone.
+- Atliq Seasons underperforms across every metric (₹22M revenue, 45% occupancy, 2.3 
+  rating) and operates in a single city, flagging it as a candidate for turnaround or 
+  portfolio review.
+- MakeYourTrip accounts for 34% of total booking revenue, creating over-reliance on a 
+  single OTA channel, while direct offline bookings contribute just 8% — highlighting 
+  room to grow lower-cost acquisition channels.
+- Mumbai generates the highest revenue (₹227M) but the slowest growth (2.57% MoM), 
+  while Delhi, despite lower revenue (₹100M), is growing faster (3.67%) — suggesting 
+  Delhi may be a higher-potential market despite a smaller current base.
 
 ## Tools Used
 Power BI, DAX, Power Query, Star Schema Data Modeling
